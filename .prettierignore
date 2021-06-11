@@ -1,0 +1,8 @@
+# Ignore artifacts:
+/specs
+*.json
+webpack.dev.js
+webpack.prod.js
+webpack.common.js
+karma.conf.js
+

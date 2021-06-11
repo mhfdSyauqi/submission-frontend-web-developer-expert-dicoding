@@ -119,6 +119,6 @@ module.exports = {
         })
       ],
     }),
-    new BundleAnalyzerPlugin(),
+//     new BundleAnalyzerPlugin(),
   ],
 };
